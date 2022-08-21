@@ -14,8 +14,67 @@
 		}]
 	}],
 	"sites": [
+		
+		
+		{
+			"key": "Gitcafe",
+			"name": "🗞️小纸条（云盘高清）",
+			"type": 3,
+			"api": "csp_GitCafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba8hash.txt"
+		}, 
+		{
+			"key": "csp_Yiso"    ,
+			"name":"🐞易搜盘",
+			"type":3,"api":"csp_Yiso",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba7hash.txt"
+		},
+		{
+			"key": "AliPS",
+			"name": "🔍阿狸盘搜(仅搜索)",
+			"type": 3,
+			"api": "csp_AliPanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba7hash.txt"
+		}, 
+		{
+			"key": "zhaozy",
+			"name": "🗂️找资源(仅搜索)",
+			"type": 3,
+			"api": "csp_FindZY",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba1hash.txt"
+		},
+		{
+			"key": "push_agent",
+			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
+			"type": 3,
+			"api": "csp_PushAgent",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba6hash.txt"
+		},
+		{
+			"key": "更多",
+			"name": "📢失效反馈",
+			"type": 1,
+			"api": "",
+			"searchable": 0,
+			"quickSearch": 0
+		}
 	    
-	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
+	    //{"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
 	    {
 			"key": "360_spider",
 			"name": "🎞️️360影视（官）",
@@ -95,16 +154,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "Gitcafe",
-			"name": "🗞️小纸条（云盘高清）",
-			"type": 3,
-			"api": "csp_GitCafe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba8hash.txt"
-		}, 
 		{
 			"key": "csp_DiDuan",
 			"name": "⤵️低端影视",
@@ -664,42 +713,8 @@
 		{"key":"小学课堂","name":"📚小学课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/小学课堂.php"},
 		{"key":"初中课堂","name":"📚初中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/初中课堂.php"},
 		{"key":"高中教育","name":"📚高中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/高中课堂.php"},
-		{
-			"key": "AliPS",
-			"name": "🔍阿狸盘搜(仅搜索)",
-			"type": 3,
-			"api": "csp_AliPanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba7hash.txt"
-		}, {
-			"key": "zhaozy",
-			"name": "🗂️找资源(仅搜索)",
-			"type": 3,
-			"api": "csp_FindZY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba1hash.txt"
-		}, {
-			"key": "push_agent",
-			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba6hash.txt"
-		}, {
-			"key": "更多",
-			"name": "📢失效反馈Q群：493192284",
-			"type": 1,
-			"api": "",
-			"searchable": 0,
-			"quickSearch": 0
-		}
 	],
+	
 	"parses": [{
 		"name": "解析聚合",
 		"type": 3,
