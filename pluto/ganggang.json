@@ -93,15 +93,16 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},
+		//{
+			//"key": "Ikan",
+			//"name": "💘爱看",
+			//"type": 3,
+			//"api": "csp_IKan",
+			//"searchable": 1,
+			//"quickSearch": 1,
+			//"filterable": 1
+		//},
 		{
-			"key": "Ikan",
-			"name": "💘爱看",
-			"type": 3,
-			"api": "csp_IKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
 			"type": 1,
@@ -253,15 +254,15 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_Tkys",
-			"name": "📡天空影视",
-			"type": 3,
-			"api": "csp_Tkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		//{
+			//"key": "csp_Tkys",
+			//"name": "📡天空影视",
+			//"type": 3,
+			//"api": "csp_Tkys",
+			//"searchable": 1,
+			//"quickSearch": 1,
+			//"filterable": 1
+		//},
 	
 		{
 			"key": "csp_Jianying",
