@@ -13,10 +13,7 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"]
 		}]
 	}],
-	"sites": [
-		
-		
-		{
+	"sites": [{
 			"key": "Gitcafe",
 			"name": "🗞️小纸条（云盘高清）",
 			"type": 3,
@@ -93,15 +90,6 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},
-		//{
-			//"key": "Ikan",
-			//"name": "💘爱看",
-			//"type": 3,
-			//"api": "csp_IKan",
-			//"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1
-		//},
 		{
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
@@ -129,7 +117,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-        {
+                {
 			"key": "小苹果",
 			"name": "🍎小苹果",
 			"type": 3,
@@ -146,7 +134,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		},
+		{
 			"key": "在线之家",
 			"name": "🏠在线之家",
 			"type": 3,
@@ -182,7 +171,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-        {
+                {
 			"key": "csp_剧荒",
 			"name": "🎭剧荒",
 			"type": 3,
@@ -199,7 +188,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
-		}, {
+		}, 
+		{
 			"key": "csp_Auete",
 			"name": "🐼Auete",
 			"type": 3,
@@ -207,7 +197,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		}, 
+		{
 			"key": "csp_Cokemv",
 			"name": "⛲Cokemv",
 			"type": 3,
@@ -225,7 +216,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
 		{
 			"key": "csp_CZSPP",
 			"name": "🏭厂长资源",
@@ -235,8 +225,7 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-     
-        {
+                {
 			"key": "追剧喵",
 			"name": "🐈追剧喵",
 			"type": 3,
@@ -245,7 +234,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-        {
+                {
 			"key": "3EDY",
 			"name": "☘️3EDY(EXO)",
 			"type": 3,
@@ -254,15 +243,15 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		//{
-			//"key": "csp_Tkys",
-			//"name": "📡天空影视",
-			//"type": 3,
-			//"api": "csp_Tkys",
-			//"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1
-		//},
+		// {
+			// "key": "csp_Tkys",
+			// "name": "📡天空影视",
+			// "type": 3,
+			// "api": "csp_Tkys",
+			// "searchable": 1,
+			// "quickSearch": 1,
+			// "filterable": 1
+		// },
 	
 		{
 			"key": "csp_Jianying",
@@ -274,32 +263,34 @@
 			"filterable": 0,
 			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
 		},
-		//{
-			//"key": "csp_QQ",
-			//"name": "🐧腾讯（官）",
-			//"type": 3,
-			//"api": "csp_QQ",
-			//"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1
-		//}, {
-		//"key": "csp_MGTV",
-			//"name": "🥭芒果（官）",
-			//"type": 3,
-			//"api": "csp_MGTV",
-			//"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1
-		//}, {
-			//"key": "csp_IQIYI",
-			//"name": "🥝爱奇艺（官）",
-			//"type": 3,
-			//"api": "csp_IQIYI",
-			//"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1
-		//},
-		{
+		// {
+			// "key": "csp_QQ",
+			// "name": "🐧腾讯（官）",
+			// "type": 3,
+			// "api": "csp_QQ",
+			// "searchable": 1,
+			// "quickSearch": 1,
+			// "filterable": 1
+		// }, 
+		 // {
+		// "key": "csp_MGTV",
+			// "name": "🥭芒果（官）",
+			// "type": 3,
+			// "api": "csp_MGTV",
+			// "searchable": 1,
+			// "quickSearch": 1,
+			// "filterable": 1
+		// },
+		   {
+			// "key": "csp_IQIYI",
+			// "name": "🥝爱奇艺（官）",
+			// "type": 3,
+			// "api": "csp_IQIYI",
+			// "searchable": 1,
+			// "quickSearch": 1,
+			// "filterable": 1
+		// },
+		   {
 			"key": "csp_Yj1211",
 			"name": "📽️直播合集",
 			"type": 3,
