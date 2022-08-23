@@ -15,8 +15,10 @@
 		}]
 	}],
 	"sites": [
-	    
-	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
+	    {"key": "bdys","name": "📺哔嘀〔磁力测试〕","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ygyzy.github.io/api/XPbd/Bdys.json",
+"jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+	    },
+	   // {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
 	    {
 			"key": "360_spider",
 			"name": "🎞️️360影视（官）",
@@ -92,7 +94,7 @@
 			"key": "Gitcafe",
 			"name": "🗞️小纸条（云盘高清）",
 			"type": 3,
-			"api": "csp_GitCafe",
+			"api": "csp_Gitcafe",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
