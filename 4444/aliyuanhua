@@ -22,10 +22,10 @@
     //md5; ad3c78559a494bde814f1a6c8c40db51//1e33066e2ce64fe79da7a709d644c78f//41edc40f23c74be4bc7714a29669767d//31e2ab23fe8a491c9a9a4f67f3bff4d7
     
     {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba3hash.txt"},
-    {"key": "csp_Gitcafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"f395757f332b42c3af839c671d8e0355"},  
-    {"key": "csp_AliPS"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"f395757f332b42c3af839c671d8e0355"},
-    {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"f395757f332b42c3af839c671d8e0355"},
-    {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"f395757f332b42c3af839c671d8e0355"},
+    {"key": "csp_Gitcafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},  
+    {"key": "csp_AliPS"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},
+    {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"c59765aaa20346c788b2bb71088a5261"},
+    {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"c59765aaa20346c788b2bb71088a5261"},
 
     {"key":"csp_biubiu_乐猪影视","name":"🥒乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/乐猪影视.json"},
     {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
