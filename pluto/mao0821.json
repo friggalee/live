@@ -10,7 +10,7 @@
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx"]}]}],
-// aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx 
+// aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx 自+
 // aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0  巧记
 
 "sites":[
@@ -18,8 +18,8 @@
  //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10
 {"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
  // {"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 // {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Wmkk","name":"👁‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
