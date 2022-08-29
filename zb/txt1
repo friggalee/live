@@ -2033,7 +2033,7 @@ TVB J2 HD,http://120.84.96.152:808/hls/86/index.m3u8
 西藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
 藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
 西藏影文化,rtmp://113.62.170.99:1935/live/tvchannel2?zxicd
-
+财经国际,#genre#
 VIU SIX,p2p://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c	
 J5無線財經新聞,p2p://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e	
 明珠台,p2p://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
@@ -2056,7 +2056,7 @@ TVB星河高清頻道,p2p://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccb
 鳳凰資訊,p2p://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
 鳳凰香港,p2p://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
 
-
+台湾,#genre#
 民視 HD,p2p://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
 民視 HD,p2p://fccs.word-tv.com:9906/62df5a780000887707dbedd0ce643763
 人間衛視  ,p2p://fccs.word-tv.com:9906/62582fff0009dab60f259b89f7464d63
@@ -2099,7 +2099,7 @@ TVBS歡樂台,p2p://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
 高點綜合,p2p://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
 JET 綜合台,p2p://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
 ETtoday綜合台,p2p://fccs.word-tv.com:9906/6258604e000c87130fe250d0bb957895
-
+台湾新闻,#genre#
 寰宇新聞,p2p://fccs.word-tv.com:9906/6257feca0002d9980e6562b6716c1c5a
 寰宇新聞台灣台,p2p://fccs.word-tv.com:9906/6258370a000e53840f411fa6b1f19ad7
 寰宇新聞台灣台,p2p://fccs.word-tv.com:9906/62dbd3b70005e62613d75e66a1fcb160
@@ -2123,7 +2123,7 @@ TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 新加坡新聞,p2p://fccs.word-tv.com:9906/6261934a0007e00f19de74f21e2709b
 
 
-
+台湾电影,#genre#
 衛視電影台,p2p://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582	
 龍祥電影台,p2p://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1	
 東森電影,p2p://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
@@ -2155,7 +2155,7 @@ Z頻道,p2p://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
 全大,p2p://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
 信大,p2p://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
 信吉,p2p://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
-
+综合,#genre#
 國家地理高畫質野生頻道,p2p://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
 Discovery Asia,p2p://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
 探索動力,p2p://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
@@ -2228,7 +2228,7 @@ CinemaWorld,p2p://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
 公視3,p2p://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d	
 
 
-
+adult,#genre#
 歐美二,p2p://fccs.word-tv.com:9906/62c7c8780004d2ba0adcea1fd011de8e
 歐美三,p2p://fccs.word-tv.com:9906/62c7c8cb0008dcf50ade2f602a0f4a7b
 松視1,p2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
