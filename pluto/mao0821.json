@@ -9,8 +9,9 @@
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
-
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx"]}]}],
+// aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx 
+// aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0  巧记
 
 "sites":[
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
