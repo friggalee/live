@@ -36,7 +36,7 @@
 {"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 
 
@@ -62,6 +62,11 @@
 // {"key": "AliPS","name": "盘搜〔SP〕","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 // {"key":"push_agent","name":"推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba8hash.txt"},
 
+ // Tfour
+ //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10
+ {"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+ // {"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+ 
  {"key": "csp_Yisou"    ,"name":"🔍️易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/friggalee/live/main/alibaba/alibaba3hash.txt"},
  {"key": "csp_Gitcafe"    ,"name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"f395757f332b42c3af839c671d8e0355"},  
  {"key": "csp_AliPS"  ,"name":"🐱阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"f395757f332b42c3af839c671d8e0355"},
