@@ -15,10 +15,11 @@
 
 "sites":[
   // Tfour
- //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10
-{"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
- // {"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+ //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10//https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod
+{"key": "T4","name": "🐞T4爬虫-1(搜索聚搜)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T4","name": "🐞T4爬虫-2(搜索聚搜)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+  //{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 // {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
