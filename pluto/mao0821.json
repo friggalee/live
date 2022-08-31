@@ -16,9 +16,10 @@
 "sites":[
   // Tfour
  //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10//https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod
-{"key": "T4","name": "🐞T-Four爬虫(搜索聚搜)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T4","name": " 🦖T-Four爬虫(长按OK键聚搜)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "T4","name": "🐞T4爬虫-2(搜索聚搜)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"csp_XYQBiu_凌云影视","name":"🍬凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"/lyys.jsonhttps://ghproxy.com/https://raw.githubusercontent.com/friggalee/friggalee.github.io/main/xb/lyys(xyq).json"}, 
+ 
   //{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
