@@ -6007,7 +6007,7 @@ CHC动作电影,http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8?z
 大连少儿,rtmp://secret.dltv.cn/dreamStreamCore/q6tZ6Ba/lv500?p?zliaond
 河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
 
-📺卫视蓝光,#genre#
+📺港澳台1,#genre#
  8TVBS新闻[1280*720],rtmp://59.124.75.150/sat/tv551
  安阳新闻[1280*720],http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
  澳门[1280*720],http://61.244.22.4/ch1/ch1.live/chunklist_w1689163998.m3u8
@@ -6107,8 +6107,8 @@ CHC动作电影,http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8?z
  TVB剧场[1280*720],http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
  TVBS娱乐[1280*720],rtmp://59.124.75.150/sat/tv421
  Y+频道[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-[Group]
-groupName=港澳台
+ 
+📺港澳台2,#genre#
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 地理野生-02,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
