@@ -248,35 +248,7 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-港澳,#genre#
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
-凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
-凤凰资讯,http://27.47.68.16:808/hls/33/index.m3u8
-TVB J2 HD,http://120.84.96.152:808/hls/86/index.m3u8
-凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
-凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
-凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-财经频道,#genre#
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
-第一财经,http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8?zshangd
+
 少儿动画,#genre#
 金鹰卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
 嘉佳卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?xtkg
@@ -3762,8 +3734,8 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 美食 - 乡间小路上,http://61.241.131.18/tx.rtmp.huya.com/1199564878882-1199564878882-5450327663426142208-2399129881220-10057-A-0-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7
 美食 - 二两红豆,http://61.241.131.18/tx.rtmp.huya.com/1199540356628-1199540356628-5345005384471937024-2399080836712-10057-A-0-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7
 美食 - 船长,http://61.241.131.18/tx.rtmp.huya.com/1199533932019-1199533932019-5317411898927349760-2399067987494-10057-A-0-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7
+
 斗鱼轮播,#genre#
-：
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 鬼片恐怖惊悚,http://maomao.kandiantv.cn/douyu1.php?id=2935323
 恐怖故事,http://maomao.kandiantv.cn/douyu1.php?id=2337939
@@ -4434,7 +4406,7 @@ KMP 頻道 ,p2p://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-，
+
 江苏,#genre#
 优漫卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8?zjiangsd
 优漫卡通,http://39.134.65.130/PLTV/88888888/224/3221225556/1.m3u8?zjiangsd
@@ -6155,3 +6127,33 @@ TVBS欢乐-01,rtmp://59.124.75.138:1935/sat/tv421
 TVBS欢乐-02,rtmp://219.80.97.35/sat/tv421
 TVBS新闻-01,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻-02,rtmp://219.80.97.35/sat/tv551
+
+港澳,#genre#
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+凤凰资讯,http://27.47.68.16:808/hls/33/index.m3u8
+TVB J2 HD,http://120.84.96.152:808/hls/86/index.m3u8
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
+凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+财经频道,#genre#
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+第一财经,http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8?zshangd
