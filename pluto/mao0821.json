@@ -15,9 +15,9 @@
 
 "sites":[
   // Tfour
- //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10//https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod
-{"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "T4","name": "🐞T4爬虫-2(搜索聚搜)","type": 4,"api": "https://ghproxy.com/https://github.com/friggalee/live/blob/main/t4/list1","searchable": 1,"quickSearch": 1,"filterable": 1},
+ //https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10//https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?wd=梦
+//{"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f395757f332b42c3af839c671d8e0355&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T4","name": "🐞T4爬虫-2(搜索聚搜)","type": 4,"api": "https://ghproxy.com/https://github.com/friggalee/live/blob/main/t4/list1","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_XYQBiu_凌云影视","name":"🍬凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/friggalee/friggalee.github.io/main/xb/lyys(xyq).json","jar":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/jar0828.jar"}, 
  
   {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/UM.json"},
@@ -106,7 +106,7 @@
 {"key":"csp_xpath_Grab4K","name":"🤗Grab4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0, "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/Grab4K.json"},
 {"key": "bdys","name": "📺哔嘀〔磁力测试〕","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ygyzy.github.io/api/XPbd/Bdys.json",
 "jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"},
-{"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ftyyy.tk/MeowXP/yinfans.json"},
+{"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 {"key":"csp_xpath_wmkk","name":"👓完美看看〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ygyzy.github.io/api/Xpath/wanmeikk.json"},
 
 {"key": "csp_xpath_88kanqiu","name": "⚽88看球(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
