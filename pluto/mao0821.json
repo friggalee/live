@@ -20,6 +20,8 @@
 //{"key": "T4","name": "🐞T4爬虫-2(搜索聚搜)","type": 4,"api": "https://ghproxy.com/https://github.com/friggalee/live/blob/main/t4/list1","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_XYQBiu_凌云影视","name":"🍬凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/friggalee/friggalee.github.io/main/xb/lyys(xyq).json","jar":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/jar0828.jar"}, 
  
+  {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/UM.json"},
+  
   //{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
