@@ -2,7 +2,7 @@
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0821%E5%8E%9F%E7%94%BB%E5%90%88%E9%9B%86.jar",
  //420k
 
-"spider":"https://zhiurl.cn/8HEmB6",
+"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0903.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
@@ -76,10 +76,8 @@
 
 
 
-
-//SP系列
- //{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 // {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Wmkk","name":"👁‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
