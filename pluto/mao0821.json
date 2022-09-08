@@ -1,9 +1,9 @@
 
 
 {
-// "spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0821%E5%8E%9F%E7%94%BB%E5%90%88%E9%9B%86.jar",420k
+ "spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0821%E5%8E%9F%E7%94%BB%E5%90%88%E9%9B%86.jar",420k
 
-"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
+//"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
@@ -134,11 +134,6 @@
 //{"key": "csp_biubiu_橘子tv","name": "🍊橘子tv〔XB〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ygyzy.github.io/api/XBiubiu/juzi.json"},
 //{"key": "csp_biubiu_宝仙HD","name": "👼宝仙〔XB〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ygyzy.github.io/api/XBiubiu/宝仙HD.json"},
 
-
-
-
-
-//解析设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
