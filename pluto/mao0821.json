@@ -66,14 +66,14 @@
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		},{
                         "key": "push_agent",
-                        "name": "👋🏻推送",
+                        "name": "👋🏻推送(阿里哎呦疼)",
                         "type": 3,
                         "api": "csp_PushAgent",
                         "searchable": 0,
                         "quickSearch": 0,
                         "filterable": 0,
-                        "ext": "3781469b13074e4cac1e0e7113e4fa20"}
- ],
+                        "ext": "3781469b13074e4cac1e0e7113e4fa20"},
+
 
 
 
