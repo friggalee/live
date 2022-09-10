@@ -1,8 +1,9 @@
 {
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0821%E5%8E%9F%E7%94%BB%E5%90%88%E9%9B%86.jar",
  //420k
+//"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
+"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/tt.jar",
 
-"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
