@@ -21,15 +21,7 @@
 "sites":
 [
 {"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1
-},{
-            "key": "TT",
-            "name": "TT(爬虫)",
-            "api": "csp_AppTT",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
+},
  
  #阿里系
     //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
