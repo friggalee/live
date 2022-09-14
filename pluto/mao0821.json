@@ -21,7 +21,7 @@
 
 "sites":
 [
-{"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type":4,"api":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/t4/list1","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=9f908347b43c46888c97a8630050d252&timeout=9","searchable":1,"quickSearch":1,"filterable":1},
  
  #阿里系
     //md5；c59765aaa20346c788b2bb71088a5261//3a49cf29cf20410997247c6eb4509be9//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
