@@ -123,7 +123,8 @@ $https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$
 
 //{"key":"低端","name":"低端","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"80S","name":"80","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"简影","name":"简影","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1}],
+//{"key":"简影","name":"简影","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1}
+],
 
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
