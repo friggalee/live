@@ -34,7 +34,7 @@
 //{"key":"AliPS","name":"🥥盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"41edc40f23c74be4bc7714a29669767d"},
 //{"key":"zhaozy","name":"🥑找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"41edc40f23c74be4bc7714a29669767d"},
 {"key":"push_agent","name":"🍈推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"41edc40f23c74be4bc7714a29669767d"},
-{"key":"t4public","name":"🍇T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=41edc40f23c74be4bc7714a29669767d&timeout=9","searchable":1,"quickSearch":1,"filterable":0}
+//{"key":"t4public","name":"🍇T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=41edc40f23c74be4bc7714a29669767d&timeout=9","searchable":1,"quickSearch":1,"filterable":0}
 	],
 	"parses": [
 	{
