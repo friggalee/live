@@ -1,6 +1,7 @@
 {
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0821%E5%8E%9F%E7%94%BB%E5%90%88%E9%9B%86.jar",
- //420k
+ //420k //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
+  //md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
 "spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/tt.jar",
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/xyq.jar",
@@ -24,10 +25,7 @@
 {"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1
 },
 
-#阿里系
-    //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
-    //md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
-    
+#阿里系  
 {"key":"Gitcafe","name":"小纸条(爬虫)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
@@ -58,8 +56,8 @@
 //{"key": "csp_Anime1","name": "🌸小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"北雁资源","name":"🍌北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 //{"key":"csp_AppYsV2","name":"🎓优众影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -70,13 +68,13 @@
 
 //XYQ系列
 {"key":"csp_XYQBiu_jmzy","name":"😽橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/橘猫资源.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
-{"key":"csp_XYQBiu_xmm","name":"😸小猫咪(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/小猫咪.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
+{"key":"csp_XYQBiu_xmm","name":"😸小猫(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/小猫咪.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 {"key":"csp_XYQBiu_wnys","name":"💎万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 {"key":"csp_XYQBiu_lyys","name":"🍑凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 {"key":"csp_XYQBiu_e9","name":"🍃E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 
 //XP系列
-{"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/XBXP/XP/789kp.json"},
+{"key":"csp_xpath_789kp","name":"🦋789看片(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/XBXP/XP/789kp.json"},
 {"key":"csp_xpath_tjyy","name":"🌀奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/huigutongying.json"},
 {"key":"csp_xpath_jbb","name":"⛄剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/jubaibai.json"},
 {"key":"csp_xpath_wanmeikk","name":"💯‍完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/wanmeikk.json"},
@@ -91,7 +89,6 @@
 {"key":"csp_xpath_xqmi","name":"🌟小强迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/xqmi.json"},
 {"key":"csp_xpath_zxzj2","name":"🏡在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/zxzj2.json"},
 {"key":"csp_555dy","name":"5️⃣555影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/555dy.json"},
-{"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/UM.json"},
 {"key":"csp_xpath_UM","name":"🎬UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/UM.json"},
 {"key":"csp_xpath_aidi","name":"📽️爱迪影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/friggalee/friggalee.github.io/blob/main/xp/aidi.json"},
 {"key":"csp_xpath_duboku","name":"💢独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/friggalee/friggalee.github.io/blob/main/xp/duboku2.json"},
