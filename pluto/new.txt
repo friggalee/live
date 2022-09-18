@@ -111,11 +111,11 @@
 #阿里系
     //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
     //md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
- {"key": "csp_Yisou","name":"🔍️易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c0814040193e4e07b054bef9fee3a234"},
- {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "c0814040193e4e07b054bef9fee3a234"},  
- {"key": "csp_AliPS","name":"🐱阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"c0814040193e4e07b054bef9fee3a234"},
- {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"c0814040193e4e07b054bef9fee3a234"},
- {"key": "push_agent","name":"😺推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"c0814040193e4e07b054bef9fee3a234"},
+ {"key": "csp_Yisou","name":"🔍️易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
+ {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "a12a64ed2fb54a7590846e0985056453"},  
+ {"key": "csp_AliPS","name":"🐱阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
+ {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
+ {"key": "push_agent","name":"😺推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
  
 {"key":"csp_Alist","name":"🧾Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘
 $https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻
