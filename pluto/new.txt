@@ -24,7 +24,15 @@
 {"key": "T4","name": "🐞T-Four爬虫(长按OK键聚搜)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1
 },
 
-
+#阿里系
+    //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
+    //md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
+{"key":"Gitcafe","name":"小纸条(爬虫)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
+{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
+{"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
+{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
+{"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
+ 
 //SP系列
  //{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -107,51 +115,6 @@
 {"key":"csp_biubiu_小强迷","name":"🌟小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/小强迷.json"},
 {"key": "Lib","name": "Libvio(爬虫)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-
-#阿里系
-    //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
-    //md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
- {
-"key":"Gitcafe",
-"name":"小纸条(爬虫)",
-"type":3,
-"api":"csp_Gitcafe",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"7bb5b24ca3274ad781a6071082e9eebd"
-},
-{
-"key":"zhaozy",
-"name":"找资源(仅搜索)",
-"type":3,
-"api":"csp_FindZY",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"7bb5b24ca3274ad781a6071082e9eebd"
-},
-{
-"key":"AliPS",
-"name":"盘搜(仅搜索)",
-"type":3,
-"api":"csp_AliPS",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"7bb5b24ca3274ad781a6071082e9eebd"
-},
-{
-"key":"Yiso",
-"name":"一搜(仅搜索)",
-"type":3,
-"api":"csp_Yiso",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"7bb5b24ca3274ad781a6071082e9eebd"
-},
- {"key": "push_agent","name":"😺推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
  
 {"key":"csp_Alist","name":"🧾Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘
 $https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻
