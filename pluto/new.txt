@@ -15,10 +15,10 @@
 
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
 // aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx 自+
-// aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0  巧记
+
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZnJpZ2dhbGVlL2xpdmUvbWFpbi96Yi90eHQx"]}]}],
 
 "sites":
 [
