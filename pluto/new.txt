@@ -3,8 +3,8 @@
  //420k //md5；c59765aaa20346c788b2bb71088a5261//78705093f2e64e3fae8a7ddf6fd020d5//a12a64ed2fb54a7590846e0985056453//1f373a68733e4dafa5fa28dca9826b35
   //md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
-//"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/tt.jar",
-"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/xyq.jar",
+"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/tt.jar",
+//"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/xyq.jar",
 
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
