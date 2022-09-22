@@ -4,7 +4,8 @@
 
 //"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0903.jar",
 
-"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%90%88%E9%9B%86%E5%8E%9F%E7%94%BB%E6%96%B0XB.jar",	
+//"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%90%88%E9%9B%86%E5%8E%9F%E7%94%BB%E6%96%B0XB.jar",
+"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/ts0903.jar",
 	
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
@@ -35,7 +36,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
 		}, 
 		{"key":"csp_Alist1","name":"Alist（网盘不支持搜索）","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"Adult_Drive$https://drive.9t.ee#七米蓝$https://al.chirmyram.com#非盘$http://www.feifwp.top#妙妙屋$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com#姬路白雪$https://pan.jlbx.xyz#听闻$https://wangpan.sangxuesheng.com#一只鱼$https://alist.youte.ml"},
 		{
@@ -46,7 +47,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
 		}, 
         {
 			"key": "AliPS",
@@ -56,7 +57,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
 		}, {
 			"key": "zhaozy",
 			"name": "找资源(云盘仅搜索)",
@@ -65,7 +66,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
 		},{
                         "key": "push_agent",
                         "name": "👋🏻推送(阿里哎呦疼)",
@@ -74,7 +75,7 @@
                         "searchable": 0,
                         "quickSearch": 0,
                         "filterable": 0,
-                        "ext": "3781469b13074e4cac1e0e7113e4fa20"},
+                        "ext": "51e70ef4c6f74a0db556b8f0f2945def"},
 
 
 
@@ -113,10 +114,10 @@
 
 //XYQ系列
 {"key":"csp_XYQBiu_jmzy","name":"😽橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/橘猫资源.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
-{"key":"csp_XYQBiu_xmm","name":"😸小猫咪(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/小猫咪.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
+{"key":"csp_XYQBiu_xmm","name":"😸小猫咪(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/小猫咪.json","jar":"https://ghproxy.com/%E2%80%8Bhttps://github.com/friggalee/live/blob/main/4444/xBPQ.jar"},
 {"key":"csp_XYQBiu_wnys","name":"💎万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 {"key":"csp_XYQBiu_lyys","name":"🍑凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
-{"key":"csp_XYQBiu_e9","name":"🍃E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
+{"key":"csp_XYQBiu_e9","name":"🍃E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json","jar":"https://ghproxy.com/%E2%80%8Bhttps://github.com/friggalee/live/blob/main/4444/xBPQ.jar"},
 
 //XP系列
 {"key":"csp_xpath_789kp","name":"🦋789看片(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/XBXP/XP/789kp.json"},
