@@ -73,6 +73,11 @@
 {"key":"csp_XYQBiu_lyys","name":"🍑凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 {"key":"csp_XYQBiu_e9","name":"🍃E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
 
+//XBPQ系列
+{"key":"csp_XBPQ极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/XBXP/XBPQ/极品影视.json","jar":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/xBPQ.jar"},
+{"key":"csp_XBPQ黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/XBXP/XBPQ/黑洞影视.json","jar":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/xBPQ.jar"},
+
+
 //XP系列
 {"key":"csp_xpath_789kp","name":"🦋789看片(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/XBXP/XP/789kp.json"},
 {"key":"csp_xpath_tjyy","name":"🌀奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/huigutongying.json"},
