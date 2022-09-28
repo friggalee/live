@@ -26,12 +26,12 @@
 },
 
 #阿里系  
-{"key":"Gitcafe","name":"小纸条(爬虫)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
-{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
-{"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
-{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
-{"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"51e70ef4c6f74a0db556b8f0f2945def"},
-{"key": "Upyunso","name": "up云搜（仅搜索）","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://刚刚.live/alitoken.json"},
+{"key":"Gitcafe","name":"小纸条(爬虫)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+{"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+{"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "Upyunso","name": "up云搜（仅搜索）","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
  
 //SP系列
 #{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
