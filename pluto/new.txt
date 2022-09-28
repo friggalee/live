@@ -4,7 +4,7 @@
   #md5; ad3c78559a494bde814f1a6c8c40db51//41edc40f23c74be4bc7714a29669767d//7b78e7a5aa8a4a8bb722ec7e171d9438//c504bbcde59f4f32a811332866da74e5
 #"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/%E5%8E%9F%E7%94%BB%E6%B7%BB%E5%8A%A0%E4%BF%AE%E5%A4%8D%E8%B7%B3%E9%9B%86XYQB.jar",
 #"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/tt.jar",
-"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/0922.jar",
+"spider":"https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/use/cs.jar",
 
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -18,7 +18,7 @@
 
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9iZC92Ly0vcmF3L21haW4vbGl2ZS96Yi50eHQ="]}]}],
 
 "sites":
 [
