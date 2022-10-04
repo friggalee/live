@@ -36,7 +36,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
+			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
 		}, 
 		{"key":"csp_Alist1","name":"Alist（网盘不支持搜索）","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"Adult_Drive$https://drive.9t.ee#七米蓝$https://al.chirmyram.com#非盘$http://www.feifwp.top#妙妙屋$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com#姬路白雪$https://pan.jlbx.xyz#听闻$https://wangpan.sangxuesheng.com#一只鱼$https://alist.youte.ml"},
 		{
@@ -47,7 +47,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
+			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
 		}, 
         {
 			"key": "AliPS",
@@ -57,7 +57,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
+			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
 		}, {
 			"key": "zhaozy",
 			"name": "找资源(云盘仅搜索)",
@@ -66,7 +66,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "51e70ef4c6f74a0db556b8f0f2945def"
+			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
 		},{
                         "key": "push_agent",
                         "name": "👋🏻推送(阿里哎呦疼)",
@@ -75,7 +75,7 @@
                         "searchable": 0,
                         "quickSearch": 0,
                         "filterable": 0,
-                        "ext": "51e70ef4c6f74a0db556b8f0f2945def"},
+                        "ext": "https://kebedd69.github.io/TVbox-interface/token.json"},
 
 
 
