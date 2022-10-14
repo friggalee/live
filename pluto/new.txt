@@ -64,6 +64,16 @@
 {"key":"mtv_zh_刺猬影视","name":"🦔刺猬影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"Smdyy_spider","name":"🦄神马影院(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"多多","name":"✨多多资源(SP)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
+{
+      "key": "低端1",
+      "name": "低端嗅探",
+      "type": 3,
+      "api": "csp_Ddrk1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "click": "ddys.tv;#vjsp > button",
+      "filterable": 1
+    },
 
 //XYQ系列
 {"key":"csp_XYQBiu_jmzy","name":"😽橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/橘猫资源.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;e79d5d6f31dc1d8011dd34f5836f09d8"},
