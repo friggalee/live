@@ -514,13 +514,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext":"ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "t4public",
       "name": "T4公共2",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab7de46e476d4a78b5ab562b6e87ed0c&timeout=8",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab7de46e476d4a78b5ab562b6e87ed0c&timeout=9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -538,7 +538,7 @@
     },
     {
       "key": "T4",
-      "name": "T4爬虫阿里搜索用",
+      "name": "🐞T-Four爬虫(可聚搜)",
       "type": 4,
       "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=569a2e9c46034e369260f2d053e3cda0&timeout=5",
       "searchable": 1,
@@ -553,7 +553,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext":"ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "Zhaozy",
@@ -563,7 +563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext":"ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "csp_Alips",
@@ -573,7 +573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+     "ext":"ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "push_agent",
@@ -583,7 +583,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext":"ab0b9a7555e84175bbc6f8e60310ae49"
     },
     {
       "key": "1",
