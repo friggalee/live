@@ -514,7 +514,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ab7de46e476d4a78b5ab562b6e87ed0c"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "t4public",
@@ -553,7 +553,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Zhaozy",
@@ -563,7 +563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "csp_Alips",
@@ -573,7 +573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "push_agent",
@@ -583,7 +583,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "1",
