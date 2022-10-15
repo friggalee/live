@@ -605,7 +605,7 @@
     },
     {
       "key": "3",
-      "name": "打赏后添加公众号作者微信",
+      "name": "打赏后添加公众号作者微信可进群",
       "type": 3,
       "api": "3",
       "searchable": 1,
@@ -629,7 +629,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }
   
   ],
   "lives": [
