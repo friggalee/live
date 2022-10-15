@@ -553,7 +553,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "569a2e9c46034e369260f2d053e3cda0"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "Zhaozy",
@@ -563,7 +563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "569a2e9c46034e369260f2d053e3cda0"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "csp_Alips",
@@ -573,7 +573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "569a2e9c46034e369260f2d053e3cda0"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "push_agent",
@@ -583,11 +583,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "ab7de46e476d4a78b5ab562b6e87ed0c"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "1",
-      "name": "感谢🙏你选择这条线路",
+      "name": "线路源自公众号宣分享菌",
       "type": 3,
       "api": "1",
       "searchable": 1,
@@ -596,7 +596,7 @@
     },
     {
       "key": "2",
-      "name": "本次体验结束！",
+      "name": "本链接体验将于三天后结束！",
       "type": 3,
       "api": "2",
       "searchable": 1,
@@ -605,7 +605,7 @@
     },
     {
       "key": "3",
-      "name": "期待再次见到你",
+      "name": "打赏后添加公众号作者微信",
       "type": 3,
       "api": "3",
       "searchable": 1,
@@ -614,7 +614,7 @@
     },
     {
       "key": "4",
-      "name": "不用下滑了，没了",
+      "name": "即可续费一年免费观影特权",
       "type": 3,
       "api": "4",
       "searchable": 1,
@@ -623,23 +623,14 @@
     },
     {
       "key": "5",
-      "name": "谢谢，再见！",
+      "name": "感恩支持，非诚勿扰，再见！",
       "type": 3,
       "api": "5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_biubiu_黄仓库",
-      "name": "黄仓库(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://share.nite07.com/api/v3/file/source/17475/%E9%BB%84%E4%BB%93%E5%BA%93.json?sign=LdK9d4HTzpIp1CJioThkK0xhJfFrvSEyTB4huMtjzo4%3D%3A0"
-    }
+  
   ],
   "lives": [
     {
@@ -2124,6 +2115,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
-  "spider": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Y5x.jar"
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "https://ghproxy.com/https://github.com/friggalee/live/blob/main/4444/use/bf.jar"
 }
