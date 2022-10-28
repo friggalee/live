@@ -526,7 +526,25 @@
       "filterable": 0,
       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/T4/vod.json"
     },
-    {
+     {
+      "key": "t4public",
+      "name": "🐞TF爬虫(豆瓣推荐*可聚搜)",
+      "type": 4,
+      "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+    },
+     {
+      "key": "t4public",
+      "name": "🐞TF爬虫(影视推荐*可聚搜)",
+      "type": 4,
+      "api": "http://top.fuqizhishi.com/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    },
+     {
       "key": "csp_Alist2",
       "name": "️Alist合集(SP)",
       "type": 3,
