@@ -518,7 +518,7 @@
     },
     {
       "key": "t4public",
-      "name": "🐞TF爬虫(影视推荐可聚搜)",
+      "name": "🐞T-F爬虫(可聚搜)",
       "type": 4,
       "api": "https://t4.secan.icu/vod?sites=all&ali_token=&douban=",
       "searchable": 1,
@@ -528,7 +528,7 @@
     },
       {
       "key": "douban",
-      "name": "🐞T-Four爬虫(可聚搜)",
+      "name": "🐞T-F(豆瓣荐片可聚搜)",
       "type": 4,
       "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
       "searchable": 1,
@@ -537,7 +537,7 @@
     },
      {
       "key": "T4_douban",
-      "name": "🐞TF爬虫(影视推荐可聚搜)",
+      "name": "🐞TF(影视推荐可聚搜)",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
