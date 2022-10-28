@@ -514,7 +514,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"ab0b9a7555e84175bbc6f8e60310ae49"
+      "ext":"http://xn--4bra.live/json/alitoken.json"
     },
     {
       "key": "t4public",
@@ -526,25 +526,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/T4/vod.json"
     },
-     {
-      "key": "douban",
-      "name": "🐞TF爬虫(豆瓣推荐*可聚搜)",
-      "type": 4,
-      "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-     {
-      "key": "T4_douban",
-      "name": "🐞TF爬虫(影视推荐*可聚搜)",
-      "type": 4,
-      "api": "http://top.fuqizhishi.com/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-     {
+    {
       "key": "csp_Alist2",
       "name": "️Alist合集(SP)",
       "type": 3,
